@@ -1,0 +1,13 @@
+com.imtiaj.al_hadis.app-jetified-window-1.0.0-beta04-0 C:\Users\User\.gradle\caches\transforms-3\57d3c45fae8f04e798c885b41569b23f\transformed\jetified-window-1.0.0-beta04\res
+com.imtiaj.al_hadis.app-jetified-window-java-1.0.0-beta04-1 C:\Users\User\.gradle\caches\transforms-3\9f65fa95ea98e5056e4631b01e4a62c6\transformed\jetified-window-java-1.0.0-beta04\res
+com.imtiaj.al_hadis.app-core-1.6.0-2 C:\Users\User\.gradle\caches\transforms-3\a44853d447985df4e9c90185f250ff4e\transformed\core-1.6.0\res
+com.imtiaj.al_hadis.app-jetified-annotation-experimental-1.1.0-3 C:\Users\User\.gradle\caches\transforms-3\ec5be6841e3bd40d79d76b54b658726c\transformed\jetified-annotation-experimental-1.1.0\res
+com.imtiaj.al_hadis.app-debug-4 E:\android projects\Al_Hadis\android\app\src\debug\res
+com.imtiaj.al_hadis.app-main-5 E:\android projects\Al_Hadis\android\app\src\main\res
+com.imtiaj.al_hadis.app-pngs-6 E:\android projects\Al_Hadis\build\app\generated\res\pngs\debug
+com.imtiaj.al_hadis.app-resValues-7 E:\android projects\Al_Hadis\build\app\generated\res\resValues\debug
+com.imtiaj.al_hadis.app-rs-8 E:\android projects\Al_Hadis\build\app\generated\res\rs\debug
+com.imtiaj.al_hadis.app-mergeDebugResources-9 E:\android projects\Al_Hadis\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.imtiaj.al_hadis.app-mergeDebugResources-10 E:\android projects\Al_Hadis\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.imtiaj.al_hadis.app-merged_res-11 E:\android projects\Al_Hadis\build\app\intermediates\merged_res\debug
+com.imtiaj.al_hadis.app-packaged_res-12 E:\android projects\Al_Hadis\build\sqflite\intermediates\packaged_res\debug

@@ -1,0 +1,47 @@
+name: al_hadis
+description: "Al Hadis Test App."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  get: ^4.3.8
+  sqflite: ^2.0.0+4
+  path: ^1.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/hadith_db.db
+fonts:
+  - family: KFQQ
+    fonts:
+      - asset: assets/font_kfgq.ttf
+  - family: Kalpurush
+    fonts:
+      - asset: assets/Kalpurush.ttf
+
